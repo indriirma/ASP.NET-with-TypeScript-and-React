@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mtoo4QZprJgFXrYkAOvnPirxPqcyK6fTPKqQK6WOn8SArXrb1rA1Ba3LgGdahMfKMCnHib28a2eIZJ4rSX9qeg==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\SolTypescript\\FirstProject\\FirstProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Padepokan79\\.nuget\\packages\\microsoft.typescript.msbuild\\3.9.9\\microsoft.typescript.msbuild.3.9.9.nupkg.sha512",
+    "C:\\Users\\Padepokan79\\.nuget\\packages\\node.js\\0.12.7\\node.js.0.12.7.nupkg.sha512",
+    "C:\\Users\\Padepokan79\\.nuget\\packages\\nogit\\0.1.0\\nogit.0.1.0.nupkg.sha512",
+    "C:\\Users\\Padepokan79\\.nuget\\packages\\npm\\3.5.2\\npm.3.5.2.nupkg.sha512",
+    "C:\\Users\\Padepokan79\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\Padepokan79\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
